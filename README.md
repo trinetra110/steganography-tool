@@ -22,9 +22,9 @@ A basic *steganography tool* that allows a user to embed hidden data inside a im
 
 - Install the requirements:
   ```
-    pip install -r requirements.txt
+  pip install -r requirements.txt
   ```
 - Run the application:
   ```
-    python main.py
+  python main.py
   ```
